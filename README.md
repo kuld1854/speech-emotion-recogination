@@ -94,8 +94,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## Contact
 
-For any questions or feedback, please contact Kuldeep Chaudhary(mailto:your.kuld1854@gmail.com).
-
----
-
-Feel free to customize this README file according to your project's specific details and requirements.
+For any questions or feedback, please contact Kuldeep Chaudhary(mailto: kuld1854@gmail.com).
